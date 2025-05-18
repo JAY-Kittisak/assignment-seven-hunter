@@ -1,7 +1,7 @@
-import TodoList from "@/components/TodoList"
+import ZirconSn from "@/components/ZirconSn";
 
 const page = () => {
-  return <TodoList />
-}
+  return <ZirconSn />;
+};
 
-export default page
+export default page;

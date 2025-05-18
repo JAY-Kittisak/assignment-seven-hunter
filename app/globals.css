@@ -19,3 +19,15 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.bg-zircon {
+  background-color: rgb(217, 12, 16);
+}
+
+.font-zircon {
+  color: rgb(217, 12, 16);
+}
+
+.border-zircon {
+  border-color: rgb(217, 12, 16);
+}
